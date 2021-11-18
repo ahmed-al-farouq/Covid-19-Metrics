@@ -2,7 +2,9 @@
 
 > The metrics web app is a site that shows metrics for coronavirus deaths
 
-![screenshot](./app_screenshot.png)
+> |Big Screen       |Small Screen|
+> |--------------|--------------|
+> |![screenshot](./screenshot.png)|![screenshot2](./screenshot-sm-screen.png)|
 
 > And you can see which countries have the most deaths
 ## Built With
