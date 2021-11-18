@@ -13,6 +13,8 @@
 - Redux
 - Linters
 
+## Live Demo
+[Live-demo](https://metrics-covid-app.herokuapp.com/)
 ### Prerequisites
   - #### Knowledge of these technologies
     - ReactJs
