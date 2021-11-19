@@ -32,7 +32,7 @@
 
 ## Testing
   * npm run test
-## Authors
+## Author
 
 :bearded_person: **Ahmed Al-Farouq**
   - Github: [@Ahmed-Alfarouq](https://github.com/ahmed-al-farouq)
