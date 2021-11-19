@@ -1,6 +1,6 @@
-# Metrics Webapp
+# Covid-19 Metrics
 
-> The metrics web app is a site that shows metrics for coronavirus deaths
+> The Covid-19 Metrics is a site that shows metrics for coronavirus deaths
 
 > |Big Screen       |Small Screen|
 > |--------------|--------------|
